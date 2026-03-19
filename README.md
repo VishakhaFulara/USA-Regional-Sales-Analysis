@@ -1,5 +1,5 @@
 # USA-Regional-Sales-Analysis
-🟦 ##Overview
+##🟦 Overview
 This project focuses on analyzing regional sales performance across the USA using an end-to-end data analytics approach. The goal is to derive meaningful business insights and build an interactive dashboard for decision-making.
 
 🟦 ##Dataset
