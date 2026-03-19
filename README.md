@@ -1,8 +1,8 @@
 # USA-Regional-Sales-Analysis
-🟦 Overview
+🟦 ##Overview
 This project focuses on analyzing regional sales performance across the USA using an end-to-end data analytics approach. The goal is to derive meaningful business insights and build an interactive dashboard for decision-making.
 
-🟦 Dataset
+🟦 ##Dataset
 The dataset contains sales transactions with details such as order date, customer, product, region, revenue, cost, and profit metrics.
 Key Columns:
 - Order details (order_number, order_date)
@@ -10,12 +10,12 @@ Key Columns:
 - Region & state data
 - Revenue, cost, profit, and margin
 
-🟦 Tools & Technologies
+🟦 ##Tools & Technologies
 - Python (Pandas, Matplotlib, Seaborn)
 - SQL Server (for querying & analysis)
 - Power BI (for dashboard creation)
 
-🟦 Steps Performed
+🟦 ##Steps Performed
 1. Data Loading & Cleaning using Python
 2. Exploratory Data Analysis (EDA)
 3. Feature Engineering (e.g., month, year, segmentation)
