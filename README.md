@@ -40,7 +40,7 @@ The Power BI dashboard includes:
 
 ## Dashboard Preview
 ### Overview Page
-![Overview](dashboard/dashboard_overview_page1.png)
+![Overview](https://github.com/VishakhaFulara/USA-Regional-Sales-Analysis/blob/44126650f894b12eefd0014d128fe2cf55f9133d/dashboard/overiview_page.png)
 
 ### Advanced Insights Page
 ![Advanced](dashboard/dashboard_advanced_page2.png)
