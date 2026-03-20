@@ -18,7 +18,7 @@ Key Columns:
 ## 🟦 Steps Performed
 1. Data Loading & Cleaning using Python
 2. Exploratory Data Analysis (EDA)
-3. Feature Engineering (e.g., month, year, segmentation)
+3. Feature Engineering (e.g., month, year,profit)
 4. SQL-based analysis for business queries
 5. Data modeling in Power BI (Star Schema)
 6. Dashboard creation with interactive visuals
