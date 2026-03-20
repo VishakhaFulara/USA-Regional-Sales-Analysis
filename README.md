@@ -15,7 +15,7 @@ Key Columns:
 - SQL Server (for querying & analysis)
 - Power BI (for dashboard creation)
 
-## 🟦 ##Steps Performed
+## 🟦 Steps Performed
 1. Data Loading & Cleaning using Python
 2. Exploratory Data Analysis (EDA)
 3. Feature Engineering (e.g., month, year, segmentation)
@@ -58,7 +58,7 @@ The Power BI dashboard includes:
 ## 🟦 Results
 The project provides actionable insights into regional performance, customer behavior, and product profitability, helping stakeholders make data-driven decisions.
 
-##🟦 How to Run
+## 🟦 How to Run
 1. Clone the repository
 2. Open Python notebook for EDA
 3. Run SQL queries in SQL Server
