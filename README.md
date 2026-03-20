@@ -43,7 +43,7 @@ The Power BI dashboard includes:
 ![Overview](https://github.com/VishakhaFulara/USA-Regional-Sales-Analysis/blob/44126650f894b12eefd0014d128fe2cf55f9133d/dashboard/overiview_page.png)
 
 ### Advanced Insights Page
-![Advanced](dashboard/dashboard_advanced_page2.png)
+![Advanced](https://github.com/VishakhaFulara/USA-Regional-Sales-Analysis/blob/06a93872613b4a96d648f0ec32fdef2103de6f51/dashboard/advance_page.png)
 
 ### Key Visuals
 ![Trend](dashboard/monthly_trend.png)
@@ -53,7 +53,9 @@ The Power BI dashboard includes:
 - Wholesale channel generates ~54% of total revenue
 - West region contributes ~30% of overall revenue
 - January shows peak revenue trends across years
-- Top products drive a significant share of total revenue
+- Product 26 and Product 25 are the top revenue-driving products
+-California drives 19.5% of revenue ($228.8 M), while the West region boasts the highest profit margin at 37.5%.
+
 
 ## 🟦 Results
 The project provides actionable insights into regional performance, customer behavior, and product profitability, helping stakeholders make data-driven decisions.
