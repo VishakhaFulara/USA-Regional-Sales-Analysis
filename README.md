@@ -54,7 +54,7 @@ The Power BI dashboard includes:
 - West region contributes ~30% of overall revenue
 - January shows peak revenue trends across years
 - Product 26 and Product 25 are the top revenue-driving products
--California drives 19.5% of revenue ($228.8 M), while the West region boasts the highest profit margin at 37.5%.
+- California drives 19.5% of revenue ($228.8 M), while the West region boasts the highest profit margin at 37.5%.
 
 
 ## 🟦 Results
