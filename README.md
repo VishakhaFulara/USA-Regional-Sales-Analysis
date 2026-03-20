@@ -3,12 +3,12 @@
 This project focuses on analyzing regional sales performance across the USA using an end-to-end data analytics approach. The goal is to derive meaningful business insights and build an interactive dashboard for decision-making.
 
 ## 🟦 Dataset
-The dataset contains sales transactions with details such as order date, customer, product, region, revenue, cost, and profit metrics.
+The dataset contains sales transactions with details such as order date, customer, product, region, revenue and cost.
 Key Columns:
 - Order details (order_number, order_date)
 - Customer & product information
 - Region & state data
-- Revenue, cost, profit, and margin
+- Revenue & cost
 
 ## 🟦 Tools & Technologies
 - Python (Pandas, Matplotlib, Seaborn)
